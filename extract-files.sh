@@ -14,7 +14,7 @@ fi
 
 set -e
 
-export DEVICE=hotdogb
+export DEVICE=oneplus7t
 export DEVICE_COMMON=sm8150-common
 export VENDOR=oneplus
 

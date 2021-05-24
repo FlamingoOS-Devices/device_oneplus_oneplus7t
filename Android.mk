@@ -6,6 +6,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),hotdogb)
+ifeq ($(TARGET_DEVICE),oneplus7t)
 include $(call all-makefiles-under,$(LOCAL_PATH))
 endif
