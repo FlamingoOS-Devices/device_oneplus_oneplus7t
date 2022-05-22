@@ -26,7 +26,7 @@ PRODUCT_COPY_FILES += \
 
 # fstab
 PRODUCT_PACKAGES += \
-    fstab.qcom_ramdisk
+    fstab.qcom.ramdisk
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
