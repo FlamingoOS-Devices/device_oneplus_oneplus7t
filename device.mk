@@ -12,6 +12,7 @@ $(call inherit-product, vendor/oneplus/oneplus7t/oneplus7t-vendor.mk)
 # Overlays
 PRODUCT_PACKAGES += \
     FlamingoOnePlus7TSystemUI \
+    FlamingoOnePlus7TFrameworks \
     OnePlus7TFrameworks \
     OnePlus7TSettings \
     OnePlus7TSettingsProvider \
