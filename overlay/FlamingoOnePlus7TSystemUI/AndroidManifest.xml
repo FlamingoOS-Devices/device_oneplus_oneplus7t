@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="co.aospa.systemui.oneplus7t">
+    package="com.flamingo.systemui.oneplus7t">
 
     <overlay
         android:isStatic="true"
