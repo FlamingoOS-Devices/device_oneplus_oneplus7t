@@ -51,6 +51,7 @@ vendor/etc/camera/OnePlus_7tPro_Golden_2.bin
 vendor/etc/camera/vidhance_calibration
 vendor/etc/init/calibrationOutput_uw.rc
 vendor/etc/init/calibrationOutput_wt.rc
+vendor/firmware/CAMERA_ICP.elf
 vendor/lib64/camera/components/com.oneplus.node.bokeh.so
 vendor/lib64/camera/components/com.oneplus.node.distortion.so
 vendor/lib64/camera/components/com.oneplus.node.eis.so
