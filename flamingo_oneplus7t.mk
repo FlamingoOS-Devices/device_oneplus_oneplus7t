@@ -45,3 +45,7 @@ endif
 # Flamingo-OS Extras Packages
 TARGET_BUILD_MATLOG := false
 TARGET_BUILD_GRAPHENEOS_CAMERA := false
+
+# OOS Stuff
+TARGET_SHIP_OOSCAM := true
+TARGET_SHIP_OOSGALLERY := true
