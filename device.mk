@@ -18,6 +18,9 @@ PRODUCT_PACKAGES += \
     OnePlus7TSettingsProvider \
     OnePlus7TSystemUI
 
+# Make it official
+OFFICIAL_BUILD := true
+
 # Audio
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/audio/audio_policy_volumes.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_volumes.xml \
