@@ -5,6 +5,6 @@
   },
   {
     "repository"  : "vendor_oneplus_oneplus7t",
-    "target_path" : "vendor/oneplus/oneplus7"
+    "target_path" : "vendor/oneplus/oneplus7t"
   }
 ]
